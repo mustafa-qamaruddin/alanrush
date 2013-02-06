@@ -1,0 +1,17 @@
+Control panel user name
+ fees0_7039466 
+Control panel password 56485648 
+Control panel URL http://cpanel.0fees.net 
+Files and FTP Settings 
+FTP user name fees0_7039466 
+FTP password 56485648 
+FTP host name ftp.0fees.net  
+MySQL Settings 
+MySQL user fees0_7039466 
+MySQL password 56485648 
+MySQL host sql207.0fees.net 
+MySQL port 3306 
+Domain name 
+Your domain name http://alanrush.0fees.net
+or
+http://www.alanrush.0fees.net 
